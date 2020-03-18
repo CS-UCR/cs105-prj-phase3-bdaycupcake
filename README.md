@@ -15,6 +15,9 @@ The data presented here is indexed based on 100 for each field. In other words, 
 
 
 ## Contributions & Responsibility
+### Responsibility
+**Sungho Ahn**: Phase 1 & Phase 2
+**Shruthi Ram**: Phase 3
 
 ## Phase 1
 **Sungho Ahn**: responsible for crawing using Scrapy, API, online download.\
@@ -24,7 +27,7 @@ The data presented here is indexed based on 100 for each field. In other words, 
 - cost-of-living-3.csv\
 The file names have changed for convenience in coding process.
 
-**Shruthi Ram**: responsible for web-crawling part\
+**Shruthi Ram**: N/A
 *Contribution*: N/A
 
 
