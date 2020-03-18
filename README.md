@@ -16,7 +16,7 @@ are less expensive and indexes above 100 are more expensive than the pivot locat
 ##Contributions & Responsibility
 
 ## Phase 1
-**Sungho Ahn**: responsible for crawing using Scrapy, API, online download.
+**Sungho Ahn**: responsible for crawing using Scrapy, API, online download.\
 *Contribution*: Obtained the three datasets we've used throughout the project phases.
 - cost-of-living-1.csv
 - cost-of-living-2.csv
