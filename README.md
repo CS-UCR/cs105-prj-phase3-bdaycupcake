@@ -16,7 +16,7 @@ The data presented here is indexed based on 100 for each field. In other words, 
 
 ## Contributions & Responsibility
 ### Responsibility
-**Sungho Ahn**: Phase 1 & Phase 2
+**Sungho Ahn**: Phase 1 & Phase 2\
 **Shruthi Ram**: Phase 3
 
 ## Phase 1
