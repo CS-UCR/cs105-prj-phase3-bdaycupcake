@@ -12,7 +12,7 @@ The cost of living is the amount of money needed to sustain a certain standard o
 The data presented here is indexed based on 100 for each field. In other words, a country or a city with an index below 100 are less expensive and indexes above 100 are more expensive than the pivot location.
 
 
-#Contributions & Responsibility
+# Contributions & Responsibility
 
 ## Phase 1
 **Sungho Ahn**: responsible for crawing using Scrapy, API, online download.\
