@@ -23,15 +23,15 @@ are less expensive and indexes above 100 are more expensive than the pivot locat
 - cost-of-living-3.csv
 The file names have changed for convenience in coding process.
 
-**Shruthi Ram**: responsible for web-crawling part
+**Shruthi Ram**: responsible for web-crawling part\
 *Contribution*: N/A
 
 
 ## Phase 2
-**Sungho Ahn**: responsible for whole Phase 2
+**Sungho Ahn**: responsible for whole Phase 2\
 *Contribution*: Data cleaned irrelevant fields from each dataset and performed EDA using various methods of visualization
 
-**Shruthi Ram**: N/A/
+**Shruthi Ram**: N/A\
 *Contribution*: N/A
 
 
