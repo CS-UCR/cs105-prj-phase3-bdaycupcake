@@ -20,14 +20,17 @@ The data presented here is indexed based on 100 for each field. In other words, 
 **Shruthi Ram**: Phase 3
 
 ## Phase 1
-**Sungho Ahn**: responsible for crawing using Scrapy, API, online download.\
-*Contribution*: Obtained the three datasets we've used throughout the project phases.
-- cost-of-living-1.csv
-- cost-of-living-2.csv
-- cost-of-living-3.csv\
+**Sungho Ahn**: responsible for whole Phase 1\
+responsible for crawing using Scrapy, API, online download.\
+*Contribution*: Creating crawler and obtain relevant datasets\
+- Created web-crawler using Scrapy
+- Using the crawler, API, and online download, obtained the following three datasets we've used throughout the project phases.\
+-- cost-of-living-1.csv
+-- cost-of-living-2.csv
+-- cost-of-living-3.csv\
 The file names have changed for convenience in coding process.
 
-**Shruthi Ram**: N/A
+**Shruthi Ram**: N/A\
 *Contribution*: N/A
 
 
