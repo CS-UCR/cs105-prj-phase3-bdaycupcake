@@ -22,9 +22,8 @@ The data presented here is indexed based on 100 for each field. In other words, 
 
 ## Phase 1
 **Sungho Ahn**: Responsible for whole Phase 1\
-*Contribution*: Creating crawler and obtain relevant datasets\
-Created web-crawler using Scrapy\
-Using the web-crawler, twitter API, and online downloading from Kaggle, I have obtained the following three datasets we've used throughout the project phases:
+***Contribution***: Creating crawler and obtain relevant datasets.\
+Created web-crawler using Scrapy and using the web-crawler, twitter API, and online downloading from Kaggle, I have obtained the following three datasets we've used throughout the project phases:
 - cost-of-living-1.csv
 - cost-of-living-2.csv
 - cost-of-living-3.csv\
@@ -36,10 +35,8 @@ The file names have changed for convenience in coding process.
 
 ## Phase 2
 **Sungho Ahn**: Responsible for whole Phase 2\
-*Contribution*: Data cleaning and performing EDA
-Cleaned irrelevant columns/fields from each dataset.\
-Combined the datasets to have a master dataset to use widely.\
-Performed EDA using various methods of visualization such as:
+***Contribution***: Data cleaning and performing EDA.\
+Cleaned irrelevant columns/fields from each dataset and combined the datasets to have a master dataset to use widely. Also performed EDA using various methods of visualization such as:
 - Histogram
 - Scatter Plot
 - Parallel Coordinates
