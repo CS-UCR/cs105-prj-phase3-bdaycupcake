@@ -3,6 +3,7 @@
 
 *Sungho Ahn, 862026328*
 
+
 ## Project Descriptions
 The cost of living is the amount of money needed to sustain a certain standard of living by affording basic expenses. Basic expenses include hosing, food, taxes, and healthcare. Cities or metropolitan areas that have higher costs 
 of living should also have higher salary wages than areas with a lower cost of living. In this project, we have obtained 3 datasets containing cost of living data for countries and major cities worldwide. A cost of living index 
@@ -14,7 +15,7 @@ are less expensive and indexes above 100 are more expensive than the pivot locat
 
 ##Contributions & Responsibility
 
-# Phase 1
+## Phase 1
 **Sungho Ahn**: responsible for crawing using Scrapy, API, online download.
 Contribution: Obtained the three datasets we've used throughout the project phases.
 - cost-of-living-1.csv
@@ -26,13 +27,13 @@ The file names have changed for convenience in coding process.
 Contribution: N/A
 
 
-# Phase 2
-**Sungho Ahn**: responsible for whole Phase 2.
-Contribution: Data cleaned irrelevant fields from each dataset and performed EDA using various methods of visualization.
+## Phase 2
+**Sungho Ahn**: responsible for whole Phase 2/
+Contribution: Data cleaned irrelevant fields from each dataset and performed EDA using various methods of visualization
 
-**Shruthi Ram**: N/A.
-Contribution: N/A.
+**Shruthi Ram**: N/A/
+Contribution: N/A
 
 
-# Phase 3
+## Phase 3
 **Shruthi Ram**: responsible for whole Phase 3
