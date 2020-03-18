@@ -27,11 +27,11 @@ Contribution: N/A
 
 
 # Phase 2
-**Sungho Ahn**: responsible for whole Phase 2
-Contribution: Data cleaned irrelevant fields from each dataset and performed EDA using various methods of visualization   
+**Sungho Ahn**: responsible for whole Phase 2.
+Contribution: Data cleaned irrelevant fields from each dataset and performed EDA using various methods of visualization.
 
-**Shruthi Ram**: N/A
-Contribution: N/A
+**Shruthi Ram**: N/A.
+Contribution: N/A.
 
 
 # Phase 3
