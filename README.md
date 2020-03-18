@@ -19,11 +19,12 @@ The data presented here is indexed based on 100 for each field. In other words, 
 **Sungho Ahn**: Phase 1 & Phase 2\
 **Shruthi Ram**: Phase 3
 
+
 ## Phase 1
-**Sungho Ahn**: responsible for whole Phase 1\
+**Sungho Ahn**: Responsible for whole Phase 1\
 *Contribution*: Creating crawler and obtain relevant datasets\
 Created web-crawler using Scrapy\
-Using the crawler, API, and online download, obtained the following three datasets we've used throughout the project phases.\
+Using the web-crawler, twitter API, and online downloading from Kaggle, I have obtained the following three datasets we've used throughout the project phases:
 - cost-of-living-1.csv
 - cost-of-living-2.csv
 - cost-of-living-3.csv\
@@ -34,12 +35,19 @@ The file names have changed for convenience in coding process.
 
 
 ## Phase 2
-**Sungho Ahn**: responsible for whole Phase 2\
-*Contribution*: Data cleaned irrelevant fields from each dataset and performed EDA using various methods of visualization
+**Sungho Ahn**: Responsible for whole Phase 2\
+*Contribution*: Data cleaning and performing EDA
+Cleaned irrelevant columns/fields from each dataset.\
+Combined the datasets to have a master dataset to use widely.\
+Performed EDA using various methods of visualization such as:
+- Histogram
+- Scatter Plot
+- Parallel Coordinates
+
 
 **Shruthi Ram**: N/A\
 *Contribution*: N/A
 
 
 ## Phase 3
-**Shruthi Ram**: responsible for whole Phase 3
+**Shruthi Ram**: Responsible for whole Phase 3
