@@ -1,0 +1,18 @@
+import pandas as pd
+import requests
+from bs4 import BeautifulSoup
+
+#request links to cost of living
+res0 = requests.get("https://www.kaggle.com/stephenofarrell/cost-of-living")
+
+#soup objects - store html
+soup 0 = BeautifulSoup(res0.content, 'lxml')
+
+#gather table data from soup object
+table = soup0.find_all('table')[0]
+
+#read into DF
+df1 = pd.read_html(str(table))[0]
+
+#append all df together
+df = df.append(df1, ignore_index = True)
