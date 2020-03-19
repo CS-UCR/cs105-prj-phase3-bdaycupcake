@@ -2,6 +2,8 @@
 ## Data Analysis
 
 ### *Sungho Ahn, 862026328*
+### *Shruthi Ram, 861211606*
+
 
 ## Project Descriptions
 In this project, we compare and explore the relationship among cost of living for each country and major city worldwide. The cost of living is the amount of money needed to sustain a certain standard of 
